@@ -53,7 +53,7 @@ class TlsBuilder {
     }
 
     Alert(){
-        console.log('HTTP/2 Flood by @Mrasdaas');
+        console.log('HTTP/2 Flood by @TaliGanda');
     }
 
     http2TUNNEL(socket){
